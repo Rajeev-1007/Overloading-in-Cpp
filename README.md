@@ -4,7 +4,10 @@
 
 Aim: To study and implement the concept of Overloading in C++, demonstrating function overloading and operator overloading.
 
-Theory:Overloading in C++ allows multiple functions or operators to share the same name but behave differently based on parameter types or counts. It enhances code readability and flexibility. Function overloading defines multiple versions of a function, while operator overloading customizes how operators work with user-defined types. Overloading must differ in signature—not just return type.
+Software Used: VS code
+
+Theory:
+Overloading in C++ allows multiple functions or operators to share the same name but behave differently based on parameter types or counts. It enhances code readability and flexibility. Function overloading defines multiple versions of a function, while operator overloading customizes how operators work with user-defined types. Overloading must differ in signature—not just return type.
 
 Constructor overloading syntax:
     
@@ -109,7 +112,8 @@ Step 5: Compare and Output Result
 Use the overloaded == operator to compare n1 and n2. Display whether the numbers are equal or not.
 
 
-Conclusion:Overloading in C++ enhances flexibility by allowing multiple functions or operators with the same name to perform different tasks based on parameter types or counts, improving code clarity and reuse.
+Conclusion:
+Overloading in C++ enhances flexibility by allowing multiple functions or operators with the same name to perform different tasks based on parameter types or counts, improving code clarity and reuse.
 
 
 
